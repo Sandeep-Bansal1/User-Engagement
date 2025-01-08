@@ -65,9 +65,6 @@ Insight: This highlights the importance of mobile user retention, as mobile user
 
   - Features like Form_Submissions and Comments show a significant positive correlation with users reaching the bottom of an article
 
-
-
-
 ## Proposed Methodology </b>
 - Since our dataset includes a binary target column called **`Reached_Bottom_of_Article`**, which indicates whether a user scrolled to the end of a news article, we will apply several classification machine learning models to predict this behavior. The models we plan to use include **Logistic Regression**, **Random Forest**, **XGBoost**, and **Gradient Boosting**.
 - These algorithms are well-suited for binary classification problems, where the goal is to determine the likelihood that a user fully engages with an article. By comparing the performance of these models, we aim to identify the most effective approach for predicting user engagement with news content.
@@ -75,3 +72,8 @@ Insight: This highlights the importance of mobile user retention, as mobile user
 ## Preliminary Results </b>
 
 ![Preliminary Results](https://github.com/Sandeep-Bansal1/User-Engagement/blob/main/Images/Scores.png?raw=true)
+
+
+## Next Steps:
+- Utilize Natural Language Processing to tokenize and remove stop words to ultimately convert text from **`Article`** and **`Heading`** to Numerical values to see if that makes a difference.
+- 
