@@ -16,3 +16,9 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn
 
 </pre></b>
 ---
+## Buisness Objective </b> 
+
+## Dataset 
+- This is a ficticious dataset that was created by the Python Library called Faker. It contains 250,000 rows and 44 attributes.
+- The Data Dictionary below will help you become familiar with each column and what each of them represent.
+- 
