@@ -33,6 +33,7 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn
 
 ## Exploratory Data Analysis </b>
 ![Year-over-Year Growth](https://github.com/Sandeep-Bansal1/User-Engagement/blob/main/Images/YOY.png?raw=true)
+
 - *High Growth Periods (April, June, December)*:
   - Significant YoY growth in these months indicates successful content strategies or campaigns. Replicate similar tactics to sustain engagement.
 
@@ -44,3 +45,23 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn
 
 - *Stable Early-Year Engagement (Jan-March)*:
   - Consistent user visits in early months suggest steady consumption habits. Use this time to introduce new features and maintain engagement.
+
+
+![Users-by_Device-Type](https://github.com/Sandeep-Bansal1/User-Engagement/blob/main/Images/Users_By_Device_Type.png?raw=true)
+
+- *Mobile visits consistently shows higher user engagement*:
+  - Mobile is clearly the primary device for users to access news articles, indicating a mobile-first approach is essential for improving user engagement. Ensuring the website is optimized for mobile experiences (responsive design, faster     loading times, and mobile-friendly features) will likely boost retention.
+
+- *Fluctuations in Desktop Visits*:
+
+  - The solid blue line representing desktop visits shows higher variability, with several notable dips (e.g., February, July, November) followed by sharp recoveries (e.g., March, December).
+Insight: Desktop visits may be more affected by seasonal factors or work schedules, as users might access articles on desktops primarily during work hours. These fluctuations could indicate the need for more targeted desktop content strategies during low-traffic periods.
+
+- *Strong Mobile Spike in December 2024*:
+
+  - The mobile visits spike dramatically in December 2024, reaching the highest point in the timeline.
+This could be driven by seasonal holiday content, with users engaging more with news on mobile devices during the holiday season. Leveraging timely, mobile-optimized content during holidays can capitalize on this trend.
+
+- *Mobile Stability vs. Desktop Volatility*:
+  - Mobile visits appear more stable over time compared to desktop visits, which show significant ups and downs throughout the year.
+Insight: This highlights the importance of mobile user retention, as mobile users demonstrate more consistent behavior. Mobile engagement should be prioritized in personalization efforts and content strategies to ensure steady user growth.
