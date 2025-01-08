@@ -74,6 +74,6 @@ Insight: This highlights the importance of mobile user retention, as mobile user
 ![Preliminary Results](https://github.com/Sandeep-Bansal1/User-Engagement/blob/main/Images/Scores.png?raw=true)
 
 
-## Next Steps:
+## Next Steps </b>
 - Utilize Natural Language Processing to tokenize and remove stop words to ultimately convert text from **`Article`** and **`Heading`** to Numerical values to see if that makes a difference.
 - 
