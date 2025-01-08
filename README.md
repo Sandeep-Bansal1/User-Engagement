@@ -17,9 +17,11 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn
 </pre></b>
 ---
 ## Buisness Objective </b> 
-- Through the use of machine learning, can we uncover the patterns that transform a casual reader into a loyal news enthusiast, keeping them engaged from headline to deep dive
+- Through the use of machine learning, can we uncover the patterns that transform a casual reader into a loyal news enthusiast, keeping them engaged from headline to deep dive.
 
-## Dataset 
+## Background </b> 
+
+## Dataset </b> 
 - This is a ficticious dataset that was created by the Python Library called Faker. It contains 250,000 rows and 44 attributes.
 - The Data Dictionary below will help you become familiar with each column and what each of them represent.
   
