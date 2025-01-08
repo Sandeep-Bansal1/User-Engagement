@@ -74,6 +74,9 @@ Insight: This highlights the importance of mobile user retention, as mobile user
 ![Preliminary Results](https://github.com/Sandeep-Bansal1/User-Engagement/blob/main/Images/Scores.png?raw=true)
 
 
+![AUC Sore](https://github.com/Sandeep-Bansal1/User-Engagement/blob/main/Images/AUC_SCORE.png?raw=true)
+
+
 ## Next Steps </b>
 - Utilize Natural Language Processing to tokenize and remove stop words to ultimately convert text from **`Article`** and **`Heading`** to Numerical values to see if that makes a difference.
 - Click Here: [NLP_EDA](https://github.com/Sandeep-Bansal1/User-Engagement/blob/bcbdc7d40edb5377fa86f464deb62911778b6044/NLP/NLP.ipynb) to see NLP work done so far.
