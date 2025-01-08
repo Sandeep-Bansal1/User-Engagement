@@ -77,4 +77,4 @@ Insight: This highlights the importance of mobile user retention, as mobile user
 ## Next Steps </b>
 - Utilize Natural Language Processing to tokenize and remove stop words to ultimately convert text from **`Article`** and **`Heading`** to Numerical values to see if that makes a difference.
 - Click Here: [NLP_EDA](https://github.com/Sandeep-Bansal1/User-Engagement/blob/bcbdc7d40edb5377fa86f464deb62911778b6044/NLP/NLP.ipynb) to see NLP work done so far.
-- 
+- Here's a fun word cloud I made comparing most popular words used in Business Articles vs Sports ![Word Cloud](https://github.com/Sandeep-Bansal1/User-Engagement/blob/main/Images/WordCloud_by_NewsType.png?raw=true)
