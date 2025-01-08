@@ -1,5 +1,5 @@
 # <div align="center"> **<span style="font-size:80px;">Clicks, Tricks, and Engagement Kicks!</span>** </div>
-### <div align="center"> -------------- *Exploring the Hidden Drivers of Increased User Engagement* ----------------
+### <div align="center"> -------------- *Exploring the Hidden Drivers of Increased User Engagement In Articles & Emails* ----------------
 ![[alt text](https://github.com/Sandeep-Bansal1/heart_disease/blob/main/heart%20cover%20picture.png?raw=true)](https://github.com/Sandeep-Bansal1/User-Engagement/blob/85d449a5189e14f63d64d3adec626a82f0ed79a3/Images/Wallpaper.webp) 
 
 <pre>
@@ -17,7 +17,7 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn, train_test_split,Logisti
 </pre></b>
 ---
 ## Buisness Objective </b> 
-- **A personal project of mine during my free time** I wanted to investiage whether the use of machine learning, can we uncover the patterns that transform a casual reader into a loyal news enthusiast, keeping them engaged from headline to deep dive.
+- ** A personal project of mine during my free time** I wanted to investiage whether the use of machine learning, can we uncover the patterns that transform a casual reader into a loyal news enthusiast, keeping them engaged from headline in a article or email to deep dive.
 - This is a ficticious dataset that was created by the Python Library called Faker. It contains 250,000 rows and 44 attributes
 
 ## Background </b> 
