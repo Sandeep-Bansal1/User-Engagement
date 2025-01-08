@@ -17,7 +17,7 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn, train_test_split,Logisti
 </pre></b>
 ---
 ## Buisness Objective </b> 
-- A personal project of mine during my free time I wanted to investiage whether the use of machine learning, can we uncover the patterns that transform a casual reader into a loyal news enthusiast, keeping them engaged from headline to deep dive.
+- **A personal project of mine during my free time** I wanted to investiage whether the use of machine learning, can we uncover the patterns that transform a casual reader into a loyal news enthusiast, keeping them engaged from headline to deep dive.
 
 ## Background </b> 
 - In a fragmented media environment with seemingly endless sources of information to choose from, Americans’ news habits have changed dramatically in the 21st century. Many seem to be dropping the old school daily habit of waking up in the morning to watch the news before work or dropping their child off to school to now checking their smartphones. However, with that being said does checking news via a cellular device increase the chances of a user reading an entire article?
