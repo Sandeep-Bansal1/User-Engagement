@@ -27,3 +27,6 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn
 - This is a ficticious dataset that was created by the Python Library called Faker. It contains 250,000 rows and 44 attributes.
 - The Data Dictionary below will help you become familiar with each column and what each of them represent.
 ![Data Dictionary](https://github.com/Sandeep-Bansal1/User-Engagement/blob/main/DataDictionary/DataDictionary.png?raw=true)
+
+## Proposed Methodology </b>
+- Since our dataset includes a binary target column called **`Reached_Bottom_of_Article`**, which indicates whether a user scrolled to the end of a news article, we will apply several classification machine learning models to predict this behavior. The models we plan to use include **Logistic Regression**, **Random Forest**, **XGBoost**, and **Gradient Boosting**. These algorithms are well-suited for binary classification problems, where the goal is to determine the likelihood that a user fully engages with an article. By comparing the performance of these models, we aim to identify the most effective approach for predicting user engagement with news content.
