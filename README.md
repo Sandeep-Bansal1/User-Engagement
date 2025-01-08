@@ -32,7 +32,7 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn
 - Since our dataset includes a binary target column called **`Reached_Bottom_of_Article`**, which indicates whether a user scrolled to the end of a news article, we will apply several classification machine learning models to predict this behavior. The models we plan to use include **Logistic Regression**, **Random Forest**, **XGBoost**, and **Gradient Boosting**. These algorithms are well-suited for binary classification problems, where the goal is to determine the likelihood that a user fully engages with an article. By comparing the performance of these models, we aim to identify the most effective approach for predicting user engagement with news content.
 
 ## Exploratory Data Analysis </b>
-
+![Year-over-Year Growth](https://github.com/Sandeep-Bansal1/User-Engagement/blob/main/Images/YOY.png?raw=true)
 - *High Growth Periods (April, June, December)*:
   - Significant YoY growth in these months indicates successful content strategies or campaigns. Replicate similar tactics to sustain engagement.
 
