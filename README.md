@@ -33,3 +33,15 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn
 
 ## Exploratory Data Analysis </b>
 
+📊 Business Insights:
+- *High Growth Periods (April, June, December)*:
+  - Significant YoY growth in these months indicates successful content strategies or campaigns. Replicate similar tactics to sustain engagement.
+
+- *Drop in July and November*:
+  - Notable declines suggest disengagement during these months. Address this with targeted campaigns, timely content, or seasonal promotions.
+
+*December Recovery*:
+  - Strong recovery after the November dip highlights the effectiveness of holiday-related content. Plan seasonal strategies to capitalize on year-end engagement.
+
+*Stable Early-Year Engagement (Jan-March)*:
+  - Consistent user visits in early months suggest steady consumption habits. Use this time to introduce new features and maintain engagement.
