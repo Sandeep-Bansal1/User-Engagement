@@ -54,5 +54,19 @@ Libraries: pandas, matplotlib, numpy, sklearn, seaborn
   - Mobile visits appear more stable over time compared to desktop visits, which show significant ups and downs throughout the year.
 Insight: This highlights the importance of mobile user retention, as mobile users demonstrate more consistent behavior. Mobile engagement should be prioritized in personalization efforts and content strategies to ensure steady user growth.
 
+
+![Correlation](https://github.com/Sandeep-Bansal1/User-Engagement/blob/main/Images/Correlation.png?raw=true)
+
+- *Breaking News, Notifications, and Social Media Engagement Are the Strongest Drivers*:
+  
+  - Breaking_News: Users are more likely to engage deeply with articles labeled as "breaking news." Subscribed_To_Notifications: Users who opt into notifications are more engaged and likely to finish articles. Follows_On_Social_Media: Users who follow the brand on social media platforms tend to engage more deeply with content.
+ 
+- *Form Submissions and Comments Are Strong Indicators of Engagement*:
+
+  - Features like Form_Submissions and Comments show a significant positive correlation with users reaching the bottom of an article
+
+
+
+
 ## Proposed Methodology </b>
 - Since our dataset includes a binary target column called **`Reached_Bottom_of_Article`**, which indicates whether a user scrolled to the end of a news article, we will apply several classification machine learning models to predict this behavior. The models we plan to use include **Logistic Regression**, **Random Forest**, **XGBoost**, and **Gradient Boosting**. These algorithms are well-suited for binary classification problems, where the goal is to determine the likelihood that a user fully engages with an article. By comparing the performance of these models, we aim to identify the most effective approach for predicting user engagement with news content.
