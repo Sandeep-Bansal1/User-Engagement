@@ -74,3 +74,4 @@ Insight: This highlights the importance of mobile user retention, as mobile user
 
 ## Preliminary Results </b>
 
+![Preliminary Results](https://github.com/Sandeep-Bansal1/User-Engagement/blob/main/Images/Scores.png?raw=true)
