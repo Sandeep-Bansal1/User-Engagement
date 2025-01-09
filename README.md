@@ -17,7 +17,7 @@ Libraries pandas, matplotlib, numpy, sklearn, seaborn, train_test_split,Logistic
 </pre></b>
 ---
 ## Buisness Objective </b> 
-- **A personal project of mine during my free time** I wanted to investiage whether the use of machine learning, can uncover the patterns that transform a casual reader into a loyal news enthusiast, keeping them engaged from headline in a article or email to deep dive.
+- **After my first semester in Marketing for my Masters I decided to tackle a personal project before the next semester begins** I wanted to investiage whether the use of machine learning, can uncover the patterns that transform a casual reader into a loyal news enthusiast, keeping them engaged from headline in a article or email to deep dive.
 - This is a ficticious dataset that was created by the Python Library called Faker. It contains 250,000 rows and 44 attributes
 
 ## Background </b> 
