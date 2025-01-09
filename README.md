@@ -4,7 +4,7 @@
 
 <pre>
 Sandeep Bansal
-The Johns Hopkins Marketing M.S Candidate
+The Johns Hopkins University Marketing M.S Candidate
 </pre>
 
 <pre>
