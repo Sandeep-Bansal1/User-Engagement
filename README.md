@@ -7,9 +7,9 @@ Contrubuter  : Sandeep Bansal
 </pre>
 
 <pre>
-Languages: Python
-Tools/IDE: Anaconda
-Libraries: pandas, matplotlib, numpy, sklearn, seaborn, train_test_split,LogisticRegression, accuracy_score, confusion_matrix, classification_report, RandomForestClassifier, GradientBoostingClassifier
+Languages Python
+Tools/IDE Anaconda
+Libraries pandas, matplotlib, numpy, sklearn, seaborn, train_test_split,LogisticRegression, accuracy_score, confusion_matrix, classification_report, RandomForestClassifier, GradientBoostingClassifier
 </pre>
 
 <pre>
