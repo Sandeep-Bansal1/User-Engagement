@@ -3,7 +3,8 @@
 ![[alt text][(https://github.com/Sandeep-Bansal1/heart_disease/blob/main/heart%20cover%20picture.png?raw=true)](https://github.com/Sandeep-Bansal1/User-Engagement/blob/85d449a5189e14f63d64d3adec626a82f0ed79a3/Images/Wallpaper.webp](https://github.com/Sandeep-Bansal1/User-Engagement/blob/cd81d1016a86f24fcc8302852ef8a4395438915b/Images/CustEngagement_Cover.png)
 
 <pre>
-Contrubuter  : Sandeep Bansal
+Sandeep Bansal
+The Johns Hopkins Marketing M.S Candidate
 </pre>
 
 <pre>
